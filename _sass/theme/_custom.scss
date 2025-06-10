@@ -1,0 +1,49 @@
+/* ==========================================================================
+   CUSTOM BROWN THEME
+   ========================================================================== */
+
+/* Color codes used for the theme */
+$brown                      : #75553C;
+$dark-brown                 : mix(#000, $brown, 40%);
+$darker-brown               : mix(#000, $brown, 60%);
+$light-brown                : #D6C8B5;
+$lighter-brown              : mix(#fff, $brown, 90%);
+$cream                      : #EFECE3
+$green                      : #666E52
+
+/* Color codes used for the site */
+$danger-color               : #ee5f5b;
+$info-color                 : #2f7f93;
+$notice-color               : #7a8288;
+$success-color              : #62c462;
+$warning-color              : #f89406;
+
+/* Other basic settings for the template */
+$border-radius              : 4px;
+$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+$global-transition          : all 0.2s ease-in-out;
+$masthead-height            : 70px;
+$navicon-width              : 28px;
+$navicon-height             : 4px;
+$sidebar-link-max-width     : 250px;
+$sidebar-screen-min-width   : 1024px;
+
+/* Default light theme for the site */
+:root {
+    --global-base-color                 : #{$brown};
+    --global-bg-color                   : #fff;
+    --global-footer-bg-color            : #f2f3f3;
+    --global-border-color               : #{$lighter-brown};
+    --global-dark-border-color          : #bdc1c4;
+    --global-code-background-color      : #fafafa;
+    --global-code-text-color            : #{$darker-brown};
+    --global-fig-caption-color          : mix(#fff,  #{$dark-brown}, 25%);
+    --global-link-color                 : #52adc8;
+    --global-link-color-hover           : mix(#000, #2f7f93, 25%);
+    --global-link-color-visited         : mix(#fff, #2f7f93, 25%);  
+    --global-masthead-link-color        : #{$dark-brown};
+    --global-masthead-link-color-hover  : mix(#000, #{$brown}, 25%);    
+    --global-text-color                 : #{$light-brown};
+    --global-text-color-light           : #{$cream};
+    --global-thead-color                : #{$lighter-brown};
+}
