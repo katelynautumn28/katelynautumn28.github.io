@@ -22,10 +22,10 @@ repository               : "katelynautumn28/katelynautumn28.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "prof_pic.jpg"
   name             : "About Me"
   pronouns         : "she/her/ella"
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : ""
   location         : "Houston, TX"
   employer         : "Rosenberg Library"
   uri              : # URL
