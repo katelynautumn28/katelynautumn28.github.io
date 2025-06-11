@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "About Me"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her/ella"
   bio              : "Short biography for the left-hand sidebar"
   location         : "Houston, TX"
   employer         : "Rosenberg Library"
