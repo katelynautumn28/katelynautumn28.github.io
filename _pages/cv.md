@@ -11,21 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.A. in Archives and Public History, New York University, 2025
+* B.A. in History, Rice University, 2022
+* A.A. in General Studies, Austin Community College, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* July - August 2025: Processing Intern at Rosenberg Library (Galveston, TX)
+  * Duties include appraising, arranging, and describing the Moody Family & Business Papers
+  * Supervisor: Gerrianne Schaad
 
-* Fall 2015: Research Assistant
+* September 2024 - May 2025: Graduate Archives Fellow at Barnard College (New York, NY)
   * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Assisted with appraisal, accessioning, arrangement, and description of institutional record collections transferred from administrative bodies of Barnard College.
+  * Utilized ArchivesSpace to make DACS-compliant EAD finding aids available online.
+  * Evaluated record restrictions based on legal, ethical, and institutional privacy requirements and labeled materials accordingly.
+  * Digitized paper and audiovisual archival materials, including analog video formats like MiniDV and VHS, and helped update digitization workflows.
+  * Paged archival materials in response to researcher requests.
+  * Developed the [Divestment, Dissent, and Discipline](https://katelynautumn28.github.io/ddd-workshop/) digital workshop plan to share critical research skills with archives users. 
+  * Supervisor: Martha Tenney, Director of Archives and Special Collections
 
 * Summer 2015: Research Assistant
   * GitHub University
