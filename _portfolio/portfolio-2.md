@@ -1,6 +1,6 @@
 ---
 title: "Digital Exhibit: A History of the Youth Leadership Project"
-excerpt: "<img src='/images/images/00d978dcfc2edd3b283c152012592cb2.jpg'>"
+excerpt: "<img src='/images/00d978dcfc2edd3b283c152012592cb2.jpg'>"
 collection: portfolio
 ---
 
