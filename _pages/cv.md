@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+-----------------------
 
 Education
 ======
@@ -17,11 +18,11 @@ Education
 
 Professional Experience
 ======
-* #### July-August 2025: Processing Intern at Rosenberg Library (Galveston, TX) #### 
+* ### July-August 2025: Processing Intern at Rosenberg Library (Galveston, TX) ###
   * Duties include appraising, arranging, and describing the Moody Family & Business Papers
   * Supervisor: Gerrianne Schaad
 
-* #### September 2024-May 2025: Graduate Archives Fellow at Barnard College (New York, NY) ####
+* ### September 2024-May 2025: Graduate Archives Fellow at Barnard College (New York, NY) ###
   * Assisted with appraisal, accessioning, arrangement, and description of institutional record collections transferred from administrative bodies of Barnard College.
   * Utilized ArchivesSpace to make DACS-compliant EAD finding aids available online.
   * Evaluated record restrictions based on legal, ethical, and institutional privacy requirements and labeled materials accordingly.
@@ -30,14 +31,14 @@ Professional Experience
   * Developed the [Divestment, Dissent, and Discipline](https://katelynautumn28.github.io/ddd-workshop/) digital workshop plan to share critical research skills with archives users. 
   * Supervisor: Martha Tenney, Director of Archives and Special Collections
 
-* #### September 2024-May 2025: Graduate Research Assistant at New York University (New York, NY) ####
+* ### September 2024-May 2025: Graduate Research Assistant at New York University (New York, NY) ###
   * With the support of a Mellon Foundation Higher Learning grant, our project team began developing a digital exhibit using static site technology that will house digitized archival material, transcription, blog posts, lesson plans, and research guides related to the Sylvester Manor Archive, an archival collection that documents the ownership, operation, and social histories of Sylvester Manor, a 17th century provisioning plantation and historic site on Shelter Island.
   * Identified opportunities for reparative description and finding aid revisions.
   * Evaluated and transcribed handwritten documents from the 17th-20th centuries.
   * Trained and managed an undergraduate transcription volunteer.
   * Coordinated communication between project team and stakeholders.
  
-* #### August 2023-August 2024: Reading Room Assistant at the Morgan Library & Museum (New York, NY) ####
+* ### August 2023-August 2024: Reading Room Assistant at the Morgan Library & Museum (New York, NY) ###
   * Paged and served rare and reference materials to readers.
   * Tracked movement of collection materials onsite and offsite requests.
   * Trained readers on handling rare materials and using microfilm machines.
@@ -45,13 +46,13 @@ Professional Experience
   * Conducted archival research and basic digitization on behalf of remote readers.
   * Assisted with digital and in-person outreach programming.
 
- * #### August 2023-May 2024: Senior Public Programs Assistant at the Asian/Pacific/American Institute at NYU (New York, NY) ####
+ * ### August 2023-May 2024: Senior Public Programs Assistant at the Asian/Pacific/American Institute at NYU (New York, NY) ###
    * Supported event planning, logistics, and hospitality.
    * Wrote and designed email newsletters and event announcements.
    * Wrote, designed, and managed social media content and marketing, including social media posts highlighting Asian/Pacific/American archival collections at NYU.
    * Collaborated with NYU faculty and staff to organize class visits and tours of the A/P/A Institute’s exhibitions.
   
-* #### August 2022-August 2023: Programs & Education Coordinator at the Lake Jackson Historical Association (Lake Jackson, TX) ####
+* ### August 2022-August 2023: Programs & Education Coordinator at the Lake Jackson Historical Association (Lake Jackson, TX) ###
    * Organized public programs such as historical lectures, activity fairs, school tours, and fundraising events that engaged community members with LJHA’s exhibitions and collections.
    * Digitized archival photographs and documents.
    * Conducted oral history interviews and transcribed them for the museum’s public collections.
@@ -64,26 +65,19 @@ Professional Experience
   
 Awards
 ======
-* Harold T. Pinkett Student of Color Award
-  * *Society of American Archivists | 2025*
+* Harold T. Pinkett Student of Color Award, Society of American Archivists, 2025
 
-* Fall 2024 Professional Development Grant 
-  * *New York University | Fall 2024*
+* Fall 2024 Professional Development Grant, New York University, Fall 2024
 
-* Professor Ada Ferrer Grant for Graduate Research related to Latin America
-  * *New York University | Summer 2024*
+* Professor Ada Ferrer Grant for Graduate Research related to Latin America, New York University, Summer 2024
 
-* Digital Humanities Graduate Student Fellowship 
-  * *New York University | Summer 2024*
+* Digital Humanities Graduate Student Fellowship, New York University, Summer 2024
 
-* Charles Garside Jr. Prize in History
-  * *Rice University | May 2022*
+* Charles Garside Jr. Prize in History, Rice University, May 2022
 
-* Ira and Patricia Gruber Award for Best Honors Thesis
-  * *Rice University | May 2022*
+* Ira and Patricia Gruber Award for Best Honors Thesis, Rice University, May 2022
 
-* Mellon Mays Undergraduate Fellowship
-  * *Rice University | 2021-22*
+* Mellon Mays Undergraduate Fellowship, Rice University, 2021-22
  
 Skills
 ======
