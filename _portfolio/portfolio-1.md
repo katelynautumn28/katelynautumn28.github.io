@@ -1,6 +1,6 @@
 ---
 title: "Divestment, Dissent, and Discipline: A Workshop"
-excerpt: "<img src='/images/BC05-08_Box20-Riots-10.jpg'>"
+excerpt: "A digital lesson plan I created as a Graduate Archives Fellow at Barnard College which provides digitized materials from Barnard's institutional records collections to guide workshops or classes interested in using archival materials to research histories of divestment campaigns, student dissent, and student discipline at Barnard."
 collection: portfolio
 ---
 
