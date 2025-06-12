@@ -1,6 +1,6 @@
 ---
 title: "Divestment, Dissent, and Discipline: A Workshop"
-excerpt: "A digital lesson plan about archives of student protest<br/><img src='/images/BC05-08_Box20-Riots-10.jpg'>"
+excerpt: "<img src='/images/BC05-08_Box20-Riots-10.jpg'>"
 collection: portfolio
 ---
 
