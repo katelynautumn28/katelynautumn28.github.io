@@ -1,8 +1,9 @@
 ---
-title: "Digital Exhibit: A History of the Youth Leadership Project"
-excerpt: "<img src='/images/00d978dcfc2edd3b283c152012592cb2.jpg'>"
+title: "'A History of the Youth Leadership Project' Digital Exhibit"
+excerpt: "An Omeka exhibit I created for the CAAAV Digital Archive which traces the history of the Youth Leadership Project, a civil and human rights advocacy group led by Southeast Asian youth in the Fordham, Bronx area in the 1990s and 2000s."
 collection: portfolio
 ---
+![YLP](/images/00d978dcfc2edd3b283c152012592cb2.jpg){:height="300px" width="500px"}
 
 For my final project in Community Archives, a graduate course taught by Maggie Schriener at NYU in Fall 2024, I created this digital exhibit for the CAAAV Digital Archive, a digital repository built on Omeka that contains digitized newsletters, photographs, and audiovisual materials created and collected by [CAAAV Organizing Asian Communities](https://caaav.org/) during over three decades of community organizing in low-income Asian immigrant and refugee communities in New York City. 
 
