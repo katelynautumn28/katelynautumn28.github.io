@@ -15,13 +15,13 @@ Education
 * B.A. in History, Rice University, 2022
 * A.A. in General Studies, Austin Community College, 2018
 
-Work experience
+Work Experience
 ======
-* July - August 2025: Processing Intern at Rosenberg Library (Galveston, TX)
+* ## July-August 2025: Processing Intern at Rosenberg Library (Galveston, TX) ## 
   * Duties include appraising, arranging, and describing the Moody Family & Business Papers
   * Supervisor: Gerrianne Schaad
 
-* September 2024 - May 2025: Graduate Archives Fellow at Barnard College (New York, NY)
+* September 2024-May 2025: Graduate Archives Fellow at Barnard College (New York, NY)
   * GitHub University
   * Assisted with appraisal, accessioning, arrangement, and description of institutional record collections transferred from administrative bodies of Barnard College.
   * Utilized ArchivesSpace to make DACS-compliant EAD finding aids available online.
@@ -36,14 +36,29 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Harold T. Pinkett Student of Color Award
+  * *Society of American Archivists | 2025*
+
+* Fall 2024 Professional Development Grant 
+  * *New York University | Fall 2024*
+
+* Professor Ada Ferrer Grant for Graduate Research related to Latin America
+  * *New York University | Summer 2024*
+
+* Digital Humanities Graduate Student Fellowship 
+  * *New York University | Summer 2024*
+
+* Charles Garside Jr. Prize in History
+  * *Rice University | May 2022*
+
+* Ira and Patricia Gruber Award for Best Honors Thesis
+  * *Rice University | May 2022*
+
+* Mellon Mays Undergraduate Fellowship
+  * *Rice University | 2021-22*
+
 
 Publications
 ======
