@@ -1,7 +1,7 @@
 ---
-title: "Los Recuerdos son Poder"
+title: "Los Recuerdos Son Poder"
 excerpt: "Archival consulting services for individuals and community groups"
 collection: portfolio
 ---
 
-!(images/memories are power.png)
+![flyer for Los Recuerdos Son Poder](images/memories-power.png)
